@@ -1,6 +1,6 @@
-# Ely.by Proxy
+# FortressProxy
 ![Bastion GLP License](https://img.shields.io/badge/Bastion-GLP%20v1.05-blue) ![Stand With UKRAINE](https://img.shields.io/badge/Stand%20With-UKRAINE-yellow) ![Free PALESTINE](https://img.shields.io/badge/Free-PALESTINE-darkgreen)  
-The Ely.by Proxy is a simple PHP system to send requests to the Ely.by Authserver through your own web server.  
+FortressProxy is a simple PHP system to send requests to the Ely.by Authserver through your own web server.  
 
 ## How it Works
 It's simple! You can send POST requests to your server and it will be passed to Ely.by's Authserver.  
